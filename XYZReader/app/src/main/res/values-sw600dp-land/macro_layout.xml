@@ -1,4 +1,7 @@
 <resources>
+    <!-- list -->
+    <dimen name="list_card_margin">8dp</dimen>
+
     <!-- detail -->
     <bool name="detail_is_card">true</bool>
 

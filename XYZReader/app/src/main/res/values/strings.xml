@@ -9,4 +9,9 @@
 
     <string name="up">Up</string>
 
+    <!-- Placeholder Text in Layout Design -->
+    <string name="pl_headline">Headline Text</string>
+    <string name="pl_time">Jun 20, 2013</string>
+    <string name="pl_poster">By Carl Sagan</string>
+
 </resources>
