@@ -14,5 +14,16 @@
     <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_press_translation_z">12dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
+    <dimen name="article_vertical_space">4dp</dimen>
+    <dimen name="article_horizontal_space">8dp</dimen>
+    <dimen name="image_size">24dp</dimen>
+    <dimen name="image_left_space">8dp</dimen>
+    <dimen name="image_top_space">4dp</dimen>
+    <dimen name="button_width">56dp</dimen>
+    <dimen name="list_top_offset">58dp</dimen>
+    <dimen name="list_toolbar_translation">4dp</dimen>
+    <dimen name="card_image_size">22dp</dimen>
+    <dimen name="card_image_right_space">4dp</dimen>
+
 
 </resources>
