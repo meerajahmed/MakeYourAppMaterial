@@ -23,7 +23,7 @@
     <color name="theme_primary_dark">#E64A19</color>
     <color name="theme_accent">#FFAB00</color>
     <color name="ltgray">#00BFA5</color>
-
+    <color name="gray">#333333</color>
     <color name="tint_ic_clock">#666666</color>
 
     <!-- Detail -->

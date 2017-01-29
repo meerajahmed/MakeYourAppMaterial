@@ -24,6 +24,12 @@
     <dimen name="list_toolbar_translation">4dp</dimen>
     <dimen name="card_image_size">22dp</dimen>
     <dimen name="card_image_right_space">4dp</dimen>
+    <dimen name="recycler_view_padding_top">8dp</dimen>
+    <dimen name="recycler_view_padding_bottom">8dp</dimen>
+    <dimen name="detail_view_app_bar_height">256dp</dimen>
+    <dimen name="toolbar_title_margin_end">64dp</dimen>
+    <dimen name="toolbar_title_margin_start">48dp</dimen>
+    <dimen name="dynamic_image_height">0dp</dimen>
 
 
 </resources>
