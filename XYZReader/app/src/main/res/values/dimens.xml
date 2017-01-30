@@ -12,7 +12,7 @@
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
     <dimen name="fab_elevation">6dp</dimen>
-    <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="article_vertical_space">4dp</dimen>
     <dimen name="article_horizontal_space">8dp</dimen>
